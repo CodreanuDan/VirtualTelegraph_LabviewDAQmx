@@ -2,7 +2,7 @@
 
 A virtual telegraph system developed in LabVIEW, capable of transmitting and receiving Morse code signals through a National Instruments DAQ interface. The system simulates real-world telegraphy using analog signal generation, acquisition, and signal processing logic.
 
-📄 [📘 Project Documentation (PDF)]https://github.com/CodreanuDan/VirtualTelegraph_LabviewDAQmx/blob/main/DOCS/Documents/CodreanuDan_TelegrafVirtual.pdf
+📄 [📘 Project Documentation (PDF)](https://github.com/CodreanuDan/VirtualTelegraph_LabviewDAQmx/blob/main/DOCS/Documents/CodreanuDan_TelegrafVirtual.pdf)
 ---
 
 ## 📡 System Overview
