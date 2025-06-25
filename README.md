@@ -35,7 +35,8 @@ The system consists of the following VIs and executables:
 
 ### 📷 Transmitter
 - Block Diagram  
-  ![Transmitter Block Diagram](https://github.com/user-attachments/assets/cb98ddb8-ead6-4906-b2a2-ca25a3d2595c)
+  ![Transmitter Block Diagram](https://github.com/user-attachments/assets/c17dec58-aed5-4797-ac55-49ec474878e7)
+
 
 - Front Panel  
   ![Transmitter Front Panel](https://github.com/user-attachments/assets/ed4133cb-5612-48f2-96a5-42e27b446261)
